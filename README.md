@@ -1,8 +1,10 @@
 # Problem-Solving-Using-C-Programming
 
-<img src="https://b1879915.smushcdn.com/1879915/wp-content/uploads/2022/05/124-What-are-problem-solving-skills-1080x675.jpg?lossy=0&strip=1&webp=1">
+<img src="https://cdn.liveplan.com/liveplan/content/uploads/2019/04/22121218/LivePlan-Headers-1.jpg">
 
-Key Features of the Repository:
+
+**Problem solving refers to the process of identifying, analyzing, and resolving challenges or obstacles encountered in various situations. It is a fundamental cognitive skill that involves using logical reasoning, critical thinking, creativity, and systematic approaches to find effective and efficient solutions to problems.**
+## Key Features of the Repository:
 
 Diverse Collection of Problems: The repository boasts a diverse array of problem-solving challenges spanning various difficulty levels and problem domains. From basic exercises to complex algorithms, the repository covers a wide range of problem types, including mathematical computations, data manipulation, sorting, searching, and more.
 
